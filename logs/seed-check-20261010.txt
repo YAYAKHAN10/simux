@@ -1,0 +1,7 @@
+﻿page                 bug    seed ok  reached  submitted  tabs
+control.html         -      -        True     True       5
+p1-newsletter.html   SB-01  True     True     True       3
+p2-search.html       SB-02  True     True     True       3
+p3-contact.html      SB-03  True     True     True       5
+p4-checkout.html     SB-04  True     False    False      25
+p5-booking.html      SB-05  True     False    False      25
